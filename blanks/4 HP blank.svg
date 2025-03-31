@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg width="19.98mm" height="128.5mm" xmlns="http://www.w3.org/2000/svg">
+  <g id="cut">
+    <rect fill="none" stroke="red" width="19.98mm" height="128.5mm" x="0mm" y="0mm" />
+    <circle fill="none" stroke="red" r="1.6mm" cx="7.5mm" cy="3.0mm" />
+<circle fill="none" stroke="red" r="1.6mm" cx="7.5mm" cy="125.0mm" />
+  </g>
+</svg>
